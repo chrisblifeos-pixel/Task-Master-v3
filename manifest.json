@@ -1,0 +1,9 @@
+{
+  "id": "task-master",
+  "name": "Task Master",
+  "version": "2.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Professional task management with formal UI and sub-task support.",
+  "author": "Gemini",
+  "isDesktopOnly": false
+}
